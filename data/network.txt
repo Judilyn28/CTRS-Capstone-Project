@@ -1,0 +1,7 @@
+# node_a,node_b,distance_km
+UFV Foster Hub,Sardis Vet Partner,6.5
+UFV Foster Hub,Yarrow Intake Home,11.0
+Sardis Vet Partner,Downtown Adoption Centre,5.0
+Yarrow Intake Home,Downtown Adoption Centre,13.0
+Sardis Vet Partner,Rosedale Supply Stop,8.0
+Rosedale Supply Stop,Downtown Adoption Centre,7.0
