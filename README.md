@@ -102,7 +102,7 @@ When `main.py` runs, it:
 ## Running the Project
 ### 1. Clone the repository
 ```bash
-git clone <https://github.com/Judilyn28/CTRS-Capstone-Project.git>
+git clone <ttps://github.com/Judilyn28/CTRS-Capstone-Project.git>
 cd ctrs_capstone
 ```
 
